@@ -5,6 +5,8 @@
 # Prerequisites
 *.d
 
+*.img
+
 .idea/
 
 ### Disk files

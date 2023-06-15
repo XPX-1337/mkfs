@@ -19,7 +19,7 @@
 
 typedef uint64_t lba_t;
 
-typedef struct __attribute__((packed)) _nsfs_xpm
+typedef struct __attribute__((aligned(4))) _nsfs_xpm
 {
     char     h_signature[XPM_PART_LEN];
     uint32_t h_version;

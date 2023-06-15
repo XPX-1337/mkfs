@@ -10,7 +10,7 @@
  * 	========================================================
  */
 
-#include <cli.h>
+#include <mkfs-tool.h>
 
 int main(int argc, char** argv)
 {
