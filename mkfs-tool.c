@@ -6,7 +6,7 @@
  * 	Date Added: 10/04/2023
  * 	Last Edited: 15/05/2023
  *
- * 	Copyright Altel Corporation, all rights reserved.
+ * 	Copyright Xplicit Corporation, all rights reserved.
  *
  * 	========================================================
  */
@@ -29,8 +29,8 @@
 
 static void do_mkfs_version(void)
 {
-    printf("%s \n", "mkfs.nsfs: a disk image tool for CTSS.");
-    printf("%s \n", "Copyright Altel Corporation, all rights reserved");
+    printf("%s \n", "mkfs.nsfs: a disk image tool for xNIX.");
+    printf("%s \n", "Copyright Xplicit Corporation, all rights reserved");
 }
 
 int mkfs_cli(int argc, char** argv)

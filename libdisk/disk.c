@@ -3,7 +3,7 @@
  *
  *	libdisk
  * 	Date Added: 10/04/2023
- * 	Copyright Altel Corporation, all rights reserved.
+ * 	Copyright Xplicit Corporation, all rights reserved.
  * 	
  * 	========================================================
  */
