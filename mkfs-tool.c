@@ -6,7 +6,7 @@
  * 	Date Added: 10/04/2023
  * 	Last Edited: 15/05/2023
  *
- * 	Copyright Xplicit Corporation, all rights reserved.
+ * 	Copyright Amlal El Mahrouss, all rights reserved.
  *
  * 	========================================================
  */
@@ -30,7 +30,7 @@
 static void do_mkfs_version(void)
 {
     printf("%s \n", "mkfs.nsfs: a disk image tool for xNIX.");
-    printf("%s \n", "Copyright Xplicit Corporation, all rights reserved");
+    printf("%s \n", "Copyright Amlal El Mahrouss, all rights reserved");
 }
 
 int mkfs_cli(int argc, char** argv)

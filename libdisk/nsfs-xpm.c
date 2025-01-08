@@ -3,7 +3,7 @@
  *
  *	libdisk
  * 	Date Added: 13/04/2023
- * 	Copyright Xplicit Corporation, all rights reserved.
+ * 	Copyright Amlal El Mahrouss, all rights reserved.
  *
  * 	========================================================
  */
